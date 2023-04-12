@@ -37,10 +37,15 @@
        dates: February 13-16, 2023
        url: https://dublin.globalappsec.org
        optional-text: Join us in-person in Dublin for two days of training followed by two conference days with multiple tracks.
-     - name: 2023 Global AppSec Dublin
+     - name: 2023 Global AppSec DC
        start-date: 2023-10-30
        dates: October 30-November 3, 2023
        url: https://dc.globalappsec.org
+       optional-text: Join us in-person in Washington DC for two days of conference with multiple tracks followed by three training days.
+     - name: 2023 Global AppSec Singapore
+       start-date: 2023-10-04
+       dates: October 4-November 5, 2023
+       url: https://singapore.globalappsec.org
        optional-text: Join us in-person in Washington DC for two days of conference with multiple tracks followed by three training days.
 - category: Regional
   description: Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
